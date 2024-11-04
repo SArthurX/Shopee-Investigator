@@ -2,6 +2,7 @@
 
 ## Before Running the Script
 1. **Search for Your Main Product**:
+   - Login frist
    - Go to Shopee’s website and use the search bar to look up your main product.
    - The search results page should display listings related to this main product.
 
